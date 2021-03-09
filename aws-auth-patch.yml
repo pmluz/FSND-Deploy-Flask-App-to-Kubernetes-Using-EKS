@@ -3,7 +3,7 @@ data:
   mapRoles: |
     - groups:
       - system:masters
-      rolearn: arn:aws:iam::644752792305:role/UdacityFlaskDeployCBKubectlRole
+      rolearn: arn:aws:iam::801495916736:role/UdacityFlaskDeployCBKubectlRole
       username: build      
     - groups:
       - system:bootstrappers
